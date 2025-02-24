@@ -14,12 +14,15 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
 - Numpy
 - Matplotlip & Seaborn for visualization
 
-## Exploratory Data Analysis (EDA)
-During the EDA process, I performed the following steps:
+## Exploratory Data Analysis (EDA):
+1. Data Loading: The dataset is loaded into a Pandas DataFrame for analysis.
+2. Data Exploration: The unique countries in the dataset are identified, and the total number of unique countries is printed.
+3. Top Ten Countries: The top ten countries by total population for the years 2001, 2012, and 2022 are extracted and visualized using bar charts.
+4. Bottom Ten Countries: Similarly, the bottom ten countries by total population for the same years are extracted and visualized.
+5. Gender Population Analysis: The project also analyzes the male and female populations separately, identifying the top ten countries for each gender across the specified years.
 
-
-
+## Visualizations:
+Bar Charts: The project generates bar charts to visually represent the top and bottom ten countries by population for the years 2001, 2012, and 2022. These visualizations help in understanding population distribution and trends over time.
 
 ## Conclusion
-
-In conclusion, this EDA process provided valuable insights into the distribution of the selected variable in the dataset. This analysis lays the foundation for further exploration and modeling tasks in the data science workflow.
+This analysis provides insights into global population trends, highlighting the countries with the largest and smallest populations over the years. The findings can be useful for policymakers, researchers, and anyone interested in demographic studies.
