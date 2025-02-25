@@ -23,6 +23,7 @@ The dataset used for this task is <a href="https://github.com/kindo-tk/PRODIGY_D
 
 ## Visualizations:
 Bar Charts: The project generates bar charts to visually represent the top and bottom ten countries by population for the years 2001, 2012, and 2022. These visualizations help in understanding population distribution and trends over time.
+Histogram: To represent the data of the Top and Bottom 10 countries with both male and female population, comparing the data over the span of 10 years each between 2022, 2012, and 2001.
 
 ## Conclusion
-This analysis provides insights into global population trends, highlighting the countries with the largest and smallest populations over the years. The findings can be useful for policymakers, researchers, and anyone interested in demographic studies.
+This analysis provides insights into global population trends, highlighting the countries with the largest and smallest populations over the years. It also focuses on the gender distribution or age distrubution within the population for which, I've personally decided to choose the gender distribution. 
